@@ -21,7 +21,7 @@ const frameworks = {
 
   express: "npx express-generator",
 };
-
+// Agrega más frameworks y librerías según tus necesidades
 const libraries = {
   tailwind: "npm install -D tailwindcss postcss autoprefixer",
 

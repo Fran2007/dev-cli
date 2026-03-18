@@ -42,6 +42,7 @@ Project Structure
 Screenshots
 - `![Main prompt](/images/dev01.png)`
 - `![Example output](/images/dev02.png)`
+- 
 - `![Main prompt](/images/dev03.png)`
 - `![Example output](/images/dev04.png)`
 

@@ -40,11 +40,10 @@ Project Structure
 - `package.json`: dependencies and `bin` entry for the `dev` command
 
 Screenshots
-- `![Main prompt](/images/dev01.png)`
-- `![Example output](/images/dev02.png)`
-- 
-- `![Main prompt](/images/dev03.png)`
-- `![Example output](/images/dev04.png)`
+- `![Main prompt](images/dev01.png)`
+- `![Framework selection](images/dev02.png)`
+- `![Library install](images/dev03.png)`
+- `![Result output](images/dev04.png)`
 
 Troubleshooting
 - If `dev` is not found after a global install, ensure your npm global bin folder is in `PATH`.
